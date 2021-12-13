@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fabioturc
 - 👀 I’m interested in crop modeling
-- 🌱 I’m currently learning programming in R
+- 🌱 I’m currently learning programming in R and using APSIM
 - 📫 How to reach me: fabio.turco@gmail.com
 
 <!---
