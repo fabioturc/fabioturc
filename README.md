@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fabioturc
-- 👀 I’m interested in crop modeling
-- 🌱 I’m currently learning programming in R and using APSIM
-- 📫 How to reach me: fabio.turco@gmail.com
+- 👀 I’m interested in eddz covariance, crop modeling and remote sensing
+- 🌱 I’m currently learning programming in R and python
+- 📫 How to reach me: fabio.turco@gmail.com or fabio.turco@usys.ethz.ch
 
 <!---
 fabioturc/fabioturc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
