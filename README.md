@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fabioturc
-- 👀 I’m interested in eddz covariance, crop modeling and remote sensing
+- 👀 I’m interested in eddy covariance, crop modeling and remote sensing
 - 🌱 I’m currently learning programming in R and python
 - 📫 How to reach me: fabio.turco@gmail.com or fabio.turco@usys.ethz.ch
 
